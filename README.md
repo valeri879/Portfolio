@@ -19,11 +19,17 @@
 
 * html5
 * css3
-* jquery.js
-* velocity.js
+  * responsive design
+  * keyframe animations
+  * svg technology
+* javascript
+  * jquery.js
+  * velocity.js
 * boostrap
 * php (codeigneter framework)
 * mysql
+* C# (not Experience)
+* mssql (not Experience)
 
 # Task managment
 
@@ -42,8 +48,12 @@
 * English
 * Georgian (native)
 
+# Experience 
 
-
+* 2012 - 2013 LLC Yappe.com (Front end developer)
+* 2013 - Present LLC Eurocapital (Front end developer)
+* 2015 - Present LLC My.ge (Front end developer)
+* 2014 - Persent LLC starlab
 
 
 
