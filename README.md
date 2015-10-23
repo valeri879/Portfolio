@@ -8,6 +8,7 @@
 * [Bio Xutor](http://bio-xutor.ru/)
 * [Arome Boutique](http://arome.ge/)
 * [Rembow](http://rembow.ge/)
+* [Inmovie](http://inmovie.ge/)
 
 # Education
 
@@ -22,6 +23,9 @@
   * responsive design
   * keyframe animations
   * svg technology
+* SCSS
+* SASS
+* LESS
 * javascript
   * jquery.js
   * velocity.js
