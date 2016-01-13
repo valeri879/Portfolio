@@ -59,9 +59,8 @@
 # Experience 
 
 * 2012 - 2013 LLC Yappe.com (Front end developer)
-* 2013 - Present LLC Eurocapital (Front end developer)
-##* 2015 - Present LLC My.ge (Front end developer)
-##* 2014 - Persent LLC starlab
+* 2013 - Present LTD Eurocapital (Front end developer)
+
 
 
 
