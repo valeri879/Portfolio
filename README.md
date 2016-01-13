@@ -9,6 +9,7 @@
 * [Arome Boutique](http://arome.ge/)
 * [Rembow](http://rembow.ge/)
 * [Inmovie](http://inmovie.ge/)
+* [Vereloft](http://vereloft.ge/)
 
 # Behance
 * [Behance account](https://www.behance.net/valeri879)
@@ -59,8 +60,8 @@
 
 * 2012 - 2013 LLC Yappe.com (Front end developer)
 * 2013 - Present LLC Eurocapital (Front end developer)
-* 2015 - Present LLC My.ge (Front end developer)
-* 2014 - Persent LLC starlab
+##* 2015 - Present LLC My.ge (Front end developer)
+##* 2014 - Persent LLC starlab
 
 
 
