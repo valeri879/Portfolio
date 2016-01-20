@@ -5,6 +5,7 @@
 * [Starlab](http://starlab.ge/)
 * [Iam.ge](http://iam.ge/)
 * [MyAuto](http://MyAuto.ge/)
+* [MySports](http://mysports.ge/)
 * [Bio Xutor](http://bio-xutor.ru/)
 * [Arome Boutique](http://arome.ge/)
 * [Rembow](http://rembow.ge/)
@@ -43,12 +44,14 @@
 
 * GitHub
 * BitBucket
+* Jira
 
 # Computer programs
 
 * Adobe Photoshop
 * Adobe Illustrator
 * Php storm
+* Web storm
 * sublime text
 
 # Languages
@@ -57,9 +60,10 @@
 * Georgian (native)
 
 # Experience 
-
+* 2009 - Present freelancer
 * 2012 - 2013 LLC Yappe.com (Front end developer)
 * 2013 - Present LTD Eurocapital (Front end developer)
+* 2015 - Present LTD MY.GE  (Front end developer)
 
 
 
