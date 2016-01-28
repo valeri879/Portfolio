@@ -1,5 +1,6 @@
 # Portfolio
 * [Tbet](https://tbet.ge/ka/)
+* [Geolab](http://geolab.edu.ge/)
 * [Gagra Plus](http://gagraplus.com/test)
 * [Capital Bank](http://capitalbank.ge/)
 * [Starlab](http://starlab.ge/)
