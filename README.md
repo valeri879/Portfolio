@@ -1,16 +1,14 @@
 # Portfolio
 * [Tbet](https://tbet.ge/ka/)
 * [Geolab](http://geolab.edu.ge/)
-* [Gagra Plus](http://gagraplus.com/test)
 * [Capital Bank](http://capitalbank.ge/)
 * [Starlab](http://starlab.ge/)
-* [Iam.ge](http://iam.ge/)
 * [MyAuto](http://MyAuto.ge/)
 * [MySports](http://mysports.ge/)
+* [HBGroup](http://hbgroup.ge/geo/)
 * [Bio Xutor](http://bio-xutor.ru/)
 * [Arome Boutique](http://arome.ge/)
 * [Rembow](http://rembow.ge/)
-* [Inmovie](http://inmovie.ge/)
 * [Vereloft](http://vereloft.ge/)
 
 # Behance
@@ -35,13 +33,14 @@
 * javascript
   * jquery.js
   * velocity.js
-* boostrap
+* bootstrap
+* foundation
 * php (codeigneter framework)
 * mysql
 * C# (not Experience)
 * mssql (not Experience)
 
-# Task managment
+# Task managment and GIT
 
 * GitHub
 * BitBucket
