@@ -4,6 +4,7 @@
 * [Capital Bank](http://capitalbank.ge/) (Responsive)
 * [Starlab](http://starlab.ge/) (Responsive)
 * [MyAuto](http://MyAuto.ge/) (Desktop)
+* [Uefa2016](http://uefa2016.tbet.ge/ka/) (Desktop)
 * [Vashadze](http://vashadze.com/) (Design (PSD))
 * [MySports](http://mysports.ge/) (Desktop & Mobile versions)
 * [HBGroup](http://hbgroup.ge/geo/) (Responsive)
