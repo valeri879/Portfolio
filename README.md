@@ -4,6 +4,7 @@
 * [Capital Bank](http://capitalbank.ge/) (Responsive)
 * [Starlab](http://starlab.ge/) (Responsive)
 * [MyAuto](http://MyAuto.ge/) (Desktop)
+* [Vashadze](http://vashadze.com/) (Design (PSD))
 * [MySports](http://mysports.ge/) (Desktop & Mobile versions)
 * [HBGroup](http://hbgroup.ge/geo/) (Responsive)
 * [Bio Xutor](http://bio-xutor.ru/) (Desktop)
@@ -28,6 +29,7 @@
   * keyframe animations
   * svg technology
 * SCSS
+* Gulp.js
 * SASS
 * LESS
 * javascript
