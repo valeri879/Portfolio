@@ -29,10 +29,15 @@
   * responsive design
   * keyframe animations
   * svg technology
-* SCSS
-* Gulp.js
-* SASS
-* LESS
+* scss
+* gulp
+* bower
+  * bourbon.io
+  * select2
+  * animate.css
+* npm
+* sass
+* less
 * javascript
   * jquery.js
   * velocity.js
