@@ -23,7 +23,7 @@
 * 2013 - 2015 Georgian techincal university
 * 2015 Geolab
 
-# Programming languages
+# Programming languages and frameworks
 
 * html5
 * css3
