@@ -79,7 +79,7 @@
 # Experience 
 * 2008 - Present freelancer
 * 2012 - 2013 - ltd Yappe.com (Front end developer)
-* 2013 - 2016 - Present ltd Eurocapital (Front end developer)
+* 2013 - 2016 - ltd Eurocapital (Front end developer)
 * 2014 - Present CEO founder at ltd starlab
 * 2015 - Present ltd MY.GE  (Front end developer)
 
