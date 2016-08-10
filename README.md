@@ -32,6 +32,14 @@
   * svg technology
 * scss
 * gulp
+  * gulp-minify-css
+  * gulp-uglify
+  * gulp-sass
+  * gulp-watch
+  * gulp-rename
+  * gulp-imagemin
+  * gulp-image
+  * gulp-sourcemaps
 * bower
   * bourbon.io
   * select2
