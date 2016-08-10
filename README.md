@@ -13,8 +13,9 @@
 * [Rembow](http://rembow.ge/) (Responsive)
 * [Vereloft](http://vereloft.ge/) (Responsive)
 
-# Behance
+# Behance and stackoverflow
 * [Behance account](https://www.behance.net/valeri879)
+* [Stackoverflow account](https://stackoverflow.com/users/2678346/val-kharitonashvili)
 
 # Education
 
