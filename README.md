@@ -2,6 +2,7 @@
 * [Tbet](https://tbet.ge/ka/) (Desktop & Mobile versions)
 * [Geolab](http://geolab.edu.ge/) (Desktop)
 * [Capital Bank](http://capitalbank.ge/) (Responsive)
+* [val-do](http://val-do.com/) (Responsive)
 * [Starlab](http://starlab.ge/) (Responsive)
 * [MyAuto](http://MyAuto.ge/) (Desktop)
 * [Uefa2016](http://uefa2016.tbet.ge/ka/) (Desktop)
