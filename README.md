@@ -1,11 +1,9 @@
 # Portfolio
-* [Tbet](https://tbet.ge/ka/) (Desktop & Mobile versions)
 * [Geolab](http://geolab.edu.ge/) (Desktop)
 * [Capital Bank](http://capitalbank.ge/) (Responsive)
 * [val-do](http://val-do.com/) (Responsive)
 * [Starlab](http://starlab.ge/) (Responsive)
 * [MyAuto](http://MyAuto.ge/) (Desktop)
-* [Uefa2016](http://uefa2016.tbet.ge/ka/) (Desktop)
 * [Vashadze](http://vashadze.com/) (Design (PSD))
 * [MySports](http://mysports.ge/) (Desktop & Mobile versions)
 * [HBGroup](http://hbgroup.ge/geo/) (Responsive)
@@ -22,7 +20,7 @@
 
 * 2011 - 2013 Caucasus university school of technology
 * 2013 - 2015 Georgian techincal university
-* 2015 Geolab
+* 2015 - Geolab
 
 # Programming languages and frameworks
 
@@ -63,6 +61,7 @@
 * GitHub
 * BitBucket
 * Jira
+* Hipchat
 
 # Computer programs
 
@@ -79,10 +78,10 @@
 
 # Experience 
 * 2008 - Present freelancer
-* 2012 - 2013 - ltd Yappe.com (Front end developer)
-* 2013 - 2016 - ltd Eurocapital (Front end developer)
-* 2014 - Present CEO founder at ltd starlab
-* 2015 - Present ltd MY.GE  (Front end developer)
+* 2012 - 2013 - ltd Yappe.com (FrontEnd developer)
+* 2013 - 2016 - ltd Eurocapital (FrontEnd developer)
+* 2014 - Present CEO founder at ltd starlab.ge
+* 2015 - Present ltd MY.GE  (FrontEnd developer)
 
 
 
