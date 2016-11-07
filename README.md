@@ -6,6 +6,7 @@
 * [MyAuto](http://MyAuto.ge/) (Desktop)
 * [Portfolio Template](http://val-do.com/portfolio/) (Responsive)
 * [Vashadze](http://vashadze.com/) (Design (PSD))
+* [Enjoy Georgia](https://www.behance.net/gallery/44411861/Enjoy-Georgia) (Design (PSD))
 * [MySports](http://mysports.ge/) (Desktop & Mobile versions)
 * [HBGroup](http://hbgroup.ge/geo/) (Responsive)
 * [Bio Xutor](http://bio-xutor.ru/) (Desktop)
