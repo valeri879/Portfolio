@@ -4,6 +4,7 @@
 * [val-do](http://val-do.com/) (Responsive)
 * [Starlab](http://starlab.ge/) (Responsive)
 * [MyAuto](http://MyAuto.ge/) (Desktop)
+* [Portfolio Template](http://val-do.com/portfolio/) (Responsive)
 * [Vashadze](http://vashadze.com/) (Design (PSD))
 * [MySports](http://mysports.ge/) (Desktop & Mobile versions)
 * [HBGroup](http://hbgroup.ge/geo/) (Responsive)
