@@ -72,6 +72,7 @@
 * Php storm
 * Web storm
 * sublime text
+* VS Code
 
 # Languages
 
