@@ -33,6 +33,7 @@
 
 * html5
 * css3
+* angular2
   * responsive design
   * keyframe animations
   * svg technology
