@@ -1,42 +1,22 @@
-# Portfolio
-* [Geolab](http://geolab.edu.ge/) (Desktop)
-* [G&T Georgia](http://gandtgeorgia.com/) (Responsive)
-* [RL Travel](http://rltravel.ge/) (Responsive)
-* [Capital Bank](http://capitalbank.ge/) (Responsive)
-* [val-do](http://val-do.com/) (Responsive)
-* [Starlab](http://starlab.ge/) (Responsive)
-* [Fufala](http://fufala.ge/ka/) (Responsive)
-* [Smartinvest](http://smartinvest.ge/ka/) (Responsive)
-* [MyAuto](http://MyAuto.ge/) (Desktop)
-* [Mymarket Mobile](http://m.mymarket.ge/) (Mobile)
-* [Portfolio Template](http://val-do.com/portfolio/) (Responsive)
-* [Vashadze](http://vashadze.com/) (Design (PSD))
-* [Enjoy Georgia](https://www.behance.net/gallery/44411861/Enjoy-Georgia) (Design (PSD))
-* [MySports](http://mysports.ge/) (Desktop & Mobile versions)
-* [HBGroup](http://hbgroup.ge/geo/) (Responsive)
-* [Bio Xutor](http://bio-xutor.ru/) (Desktop)
-* [Arome Boutique](http://arome.ge/) (Responsive)
-* [Rembow](http://rembow.ge/) (Responsive)
-* [Vereloft](http://vereloft.ge/) (Responsive)
-
 # Behance and stackoverflow
+
 * [Behance account](https://www.behance.net/valeri879)
 * [Stackoverflow account](https://stackoverflow.com/users/2678346/val-kharitonashvili)
 
 # Education
 
 * 2011 - 2013 Caucasus university school of technology
-* 2013 - 2015 Georgian techincal university
+* 2013 - Present, Georgian techincal university
 * 2015 - Geolab
 
-# Programming languages and frameworks
+# Programming languages && frameworks && package managers
 
 * html5
 * css3
 * angular2
-  * responsive design
-  * keyframe animations
-  * svg technology
+* responsive design
+* keyframe animations
+* svg technology
 * scss
 * gulp
   * gulp-minify-css
@@ -55,9 +35,9 @@
 * sass
 * less
 * javascript
-  * jquery.js
-  * velocity.js
-* bootstrap
+* jquery.js
+* velocity.js
+* bootstrap (3,4)
 * foundation
 * php (codeigneter framework)
 * mysql
@@ -70,6 +50,8 @@
 * BitBucket
 * Jira
 * Hipchat
+* Asana
+* Slack
 
 # Computer programs
 
@@ -78,19 +60,26 @@
 * Php storm
 * Web storm
 * sublime text
-* VS Code
+* VS Code (My favorite)
 
 # Languages
 
 * English
-* Georgian (native)
+* Georgian (Native)
 
 # Experience 
+
 * 2008 - Present freelancer
 * 2012 - 2013 - ltd Yappe.com (FrontEnd developer)
 * 2013 - 2016 - ltd Eurocapital (FrontEnd developer)
 * 2014 - Present CEO founder at ltd starlab.ge
-* 2015 - Present ltd MY.GE  (FrontEnd developer)
+* 2015 - 2017 ltd MY.GE  (FrontEnd developer)
+* 2017 - Present Betobe inc
+
+# Cover letter
+
+Hello I’m from Georgia, Tbilisi. I have strong knowledge and experience in frontend development and markup, I always use the latest technologies and standards to develop projects, I also use css preprocessor sass and other useful plugins using gulp.js
+
 
 
 
