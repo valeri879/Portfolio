@@ -2,6 +2,14 @@
 
 * [Behance account](https://www.behance.net/valeri879)
 * [Stackoverflow account](https://stackoverflow.com/users/2678346/val-kharitonashvili)
+* [Behance](https://dribbble.com/vald0)
+
+# Social Networks
+
+* [Facebook](https://facebook.com/valeri879)
+* [Twitter](https://twitter.com/valeri879)
+* [Instagram](https://instagram.com/valdoooooooooooo)
+* [Youtube](https://www.youtube.com/channel/UCU7Rxx2ZahkcSLKnSMkJKQA?view_as=subscriber)
 
 # Education
 
