@@ -5,15 +5,14 @@
 
 # Education
 
-* 2011 - 2013 Caucasus university school of technology
-* 2013 - Present, Georgian techincal university
-* 2015 - Geolab
+* 2011 - 2014 Caucasus university school of technology
+* 2013 - 2019 Present, Georgian techincal university
 
 # Programming languages && frameworks && package managers
 
-* html5
-* css3
-* angular2
+* HTML5
+* CSS3
+* angular2 +
 * responsive design
 * keyframe animations
 * svg technology
@@ -53,7 +52,7 @@
 * Asana
 * Slack
 
-# Computer programs
+# Computer programs and IDE
 
 * Adobe Photoshop
 * Adobe Illustrator
@@ -69,17 +68,18 @@
 
 # Experience 
 
-* 2008 - Present freelancer
+* 2008 - Present freelancer (FrontEnd developer)
 * 2012 - 2013 - ltd Yappe.com (FrontEnd developer)
 * 2013 - 2016 - ltd Eurocapital (FrontEnd developer)
 * 2014 - Present CEO founder at ltd starlab.ge
 * 2015 - 2017 ltd MY.GE  (FrontEnd developer)
-* 2017 - Present Betobe inc
+* 2017 - 2018 Betobe (FrontEnd developer)
+* 2018 - 2019 ltd MY.GE  (FrontEnd developer)
+* 2019 - present ltd RedMed (FrontEnd developer)
 
 # Cover letter
 
-Hello I’m from Georgia, Tbilisi. I have strong knowledge and experience in frontend development and markup, I always use the latest technologies and standards to develop projects, I also use css preprocessor sass and other useful plugins using gulp.js
-
+Hello I’m from Georgia, Tbilisi. I have strong knowledge and experience in frontend development and markup, I always use the latest technologies and standards to develop projects
 
 
 
